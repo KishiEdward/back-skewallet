@@ -15,7 +15,7 @@ https://global.ac.id/
 - Nim : 1123150045
 - Nama : Dzidan Rafi Habibie
 - Mata Kuliah : Pemrograman Mobile Lanjutan
-- Kelas : TI-SE 23 SH
+- Kelas : TI-SE 23 M
 
 ## Deskripsi Project
 
