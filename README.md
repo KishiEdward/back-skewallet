@@ -65,7 +65,7 @@ Pastikan perangkat Anda sudah memiliki:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Frientia/skewallet-backend.git
+git clone https://github.com/KishiEdward/skewallet-backend.git
 cd skeback
 ```
 
