@@ -21,6 +21,12 @@ https://global.ac.id/
 
 Project ini adalah backend API untuk sistem Skewallet yang digunakan untuk mendukung autentikasi pengguna, verifikasi OTP, manajemen akun, serta proses pembayaran (payment) secara aman. Backend ini juga berperan sebagai penghubung deep link dengan aplikasi Skenaid, sehingga proses pembayaran dari aplikasi e-commerce dapat diarahkan dan diproses melalui Skewallet secara langsung. Aplikasi ini dibangun menggunakan Go, MySQL, Redis, dan Firebase Authentication.
 
+## Link proyek lain yang terintegrasi
+- **[Backend skenaid (ecommerce)](https://github.com/KishiEdward/back-skenaid)**
+- **[Frontend skenaid (ecommerce)](https://github.com/KishiEdward/front-skenaid)**
+- **[Backend skewallet (ewallet)](https://github.com/KishiEdward/back-skewallet)**
+- **[Frontend skenaid (ewallet)](https://github.com/KishiEdward/front-skewallet)**
+
 ## Demo Video
 
 Lihat demo aplikasi dan alur fitur yang tersedia dalam video berikut.
